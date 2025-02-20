@@ -1,0 +1,57 @@
+[
+    {
+        "timestamp": "0.00 - 5.36",
+        "text": "\u3053\u308c \u304c \u8981\u6c42 \u3057 \u305f \u3053\u3068 \u3067 , \u308f\u308c\u308f\u308c \u306f , \u5f7c \u3089 \u306e \u652f\u914d \u8005 \u305f\u3061 \u306e \u97ff\u304d \u3092 , \u6ce2 \u3067 \u306f \u306a \u3044 \u304b .",
+        "audio_path": "jp_audios/audio_0.wav"
+    },
+    {
+        "timestamp": "5.36 - 9.84",
+        "text": "\u305d\u3057\u3066 ,  \u6642 \u306b \u6cbf \u3063 \u305f \u529b \u306b \u3088 \u3063 \u3066 , \u5f7c \u3089 \u306e \u652f\u914d \u529b \u306b \u6e80\u3061 \u3066 \u3044 \u308b \u3088\u3046 \u306b \u3068 , \u66f8 \u3044 \u3066 \u3042 \u3063 \u305f \u306e \u3067 \u3042 \u308b .",
+        "audio_path": "jp_audios/audio_1.wav"
+    },
+    {
+        "timestamp": "9.84 - 13.40",
+        "text": "\u3053\u3046 \u3057 \u3066 , \u3075\u305f\u308a \u306e \u8005 \u304c \u524d \u306b \u3082 \u805e\u304d\u3044\u308c \u306a \u304b\u3063 \u305f \u306e \u3067 ,",
+        "audio_path": "jp_audios/audio_2.wav"
+    },
+    {
+        "timestamp": "13.40 - 15.58",
+        "text": "\u3057\u304b\u3057 , \u77e5 \u3089 \u306a \u3044 \u8005 \u305f\u3061 \u306f \u305d\u3053 \u306b \u8d70 \u3063 \u3066 \u884c \u304f .",
+        "audio_path": "jp_audios/audio_3.wav"
+    },
+    {
+        "timestamp": "15.58 - 20.04",
+        "text": "\u3068 \u3044 \u3046 \u306e \u306f , \u3044\u308f\u3070 , \u6ce2 \u306b \u3068 \u3063 \u3066 \u3084 \u3059 \u3079 \u304d \u3053\u3068 \u3067 \u3042 \u308b .",
+        "audio_path": "jp_audios/audio_4.wav"
+    },
+    {
+        "timestamp": "20.04 - 26.12",
+        "text": "\u3042\u306a\u305f \u306f \u4e00 \u7a2e \u306e \u91cd \u3055 \u3092 \u53d6 \u308a , \u6b8b\u308a \u306e \u6c11 \u3092 \u96c7 \u3046 \u306e \u306b , \u5c11\u3057 \u3060\u3051 \u3067 \u3082 , \u305f\u308f\u3093 \u3060\u3063 \u305f \u8005 \u3092 \u3082 \u53d6 \u3063 \u3066 \u305d\u306e \u307e\u307e \u306b \u3057 \u3066 \u304a \u304d \u306a\u3055 \u3044 .",
+        "audio_path": "jp_audios/audio_5.wav"
+    },
+    {
+        "timestamp": "26.36 - 31.80",
+        "text": "\u305d\u306e \u3088\u3046 \u306a  \u4eca \u306f , \u3042\u306a\u305f \u304c\u305f \u304c \u5149 \u306b \u51fa \u3066 \u3044 \u308b \u306e \u306f , \u3061\u3087\u3046\u3069 , \u304b\u3089 \u624b \u3067 \u304a\u304a \u308f \u308c \u3066 \u3057\u307e \u3044 , \u307e\u305f , \u3042\u308b \u4eba \u304c \u3060\u308c \u304b \u306e \u3053\u3068 \u3067 \u3042 \u308b \u304b \u3092 \u898b \u308b \u3067 \u3042 \u308d \u3046 .",
+        "audio_path": "jp_audios/audio_6.wav"
+    },
+    {
+        "timestamp": "31.80 - 36.52",
+        "text": "\u3053\u306e \u3075\u305f\u308a \u306e \u8005 \u306b \u4e8c \u3064 \u306e \u67c4 \u304c \u3042 \u3063 \u305f \u304c , \u5f7c \u3089 \u306f , \u4ed6 \u306e \u8a00\u8449 \u3092 \u3082 \u3063 \u3066 \u307e \u305b \u305f , \u3053\u308c \u3089 \u306e \u8a00\u8449 \u3092 \u3082 \u3063 \u3066 \u9053 \u306b \u6368\u3066 \u305f .",
+        "audio_path": "jp_audios/audio_7.wav"
+    },
+    {
+        "timestamp": "36.52 - 42.72",
+        "text": "\u3053\u3046 \u3057 \u3066 , \u4e0d\u601d\u8b70 \u306a \u9664\u304d \u3092 \u6c34 \u306e \u4e2d \u306b \u3075\u304b \u3059 \u3068\u304d , \u305d\u306e \u624b \u3092 \u5439 \u304d , \u307f \u624b \u3092 \u632f \u3063 \u3066 , \u305d\u306e \u304b\u3089\u3060 \u3092 \u5b88 \u308b \u3053\u3068 \u304c \u3067\u304d \u308b .",
+        "audio_path": "jp_audios/audio_8.wav"
+    },
+    {
+        "timestamp": "42.72 - 46.92",
+        "text": "\u4eba \u3092 \u3057\u3048 \u305f\u3052 \u308b \u8005 \u304c \u596a \u308f \u308c \u3066 , \u3057\u3048 \u305f\u3052 \u308b \u3053\u3068 \u3092 \u597d \u307e \u306a \u3044 . \u4eba \u306f \u307f\u306a , \u304b\u3059\u3081 \u308b \u3053\u3068 \u3092 \u3057 \u306a \u3044 \u304b\u3089 \u3060 .",
+        "audio_path": "jp_audios/audio_9.wav"
+    },
+    {
+        "timestamp": "46.92 - 52.00",
+        "text": "\u30aa\u30ec\u30b9 \u306b \u81f3 \u308b \u307e\u3067 , \u308f\u305f\u3057 \u305f\u3061 \u306f \u305d\u3053 \u304b\u3089 \u51fa\u5e06 \u3057 \u305f \u3044 \u306e \u3067 \u3042 \u308b . \u305d\u308c \u306f , \u30af\u30cb\u30b1 \u3068 \u30d4\u30ec\u30c8 \u3068 \u306e \u4e09 \u4eba \u30d4\u30ec\u30c8 \u3068 \u306e \u4e09 \u4eba \u306e \u3053\u3068 \u3067 \u3042 \u308b .",
+        "audio_path": "jp_audios/audio_10.wav"
+    }
+]
